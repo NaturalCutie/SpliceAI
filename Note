@@ -1,0 +1,2 @@
+假如输入序列长度远小于模型的输入序列背景长度，预测得到的probability也会远小于1
+模型会采用Top-k accuracy作为evaluation metric
